@@ -4,5 +4,6 @@
     Step 1 : Fork repository 
     Step 2 : Clone repository 
     Step 3 : Make sure you have python installed (preferably with a virtual environment)
-    Step 4 : In terminal type 'pip install requirements.txt' 
+    Step 4 : In terminal type ```bash
+                        pip install -r requirements.txt
     Step 5 : Run the files and the cells :)
