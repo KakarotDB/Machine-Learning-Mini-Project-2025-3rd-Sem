@@ -7,6 +7,6 @@ Step 2 : Make sure you have python installed (preferably with a virtual environm
 
 Step 3 : In terminal type:
 ```bash
-pip install -requirements.txt
+pip install -r requirements.txt
 ```
 Step 5 : Run the files and the cells :)
